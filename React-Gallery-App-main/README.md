@@ -1,5 +1,4 @@
-## **_Website_**:[https://saigalryapp.ccbp.tech/](https://saigalryapp.ccbp.tech/)
-
+## **_Website_**:https://maheshdevu19.ccbp.tech/
 In this project, let's build a **Gallery App** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
